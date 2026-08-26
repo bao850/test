@@ -59,6 +59,7 @@ void loop() {
   }
   Serial.print("Counter value: ");
   Serial.println(counter);
+  println("Hello world");
 
   // Tăng biến đếm và đợi 1 giây
   counter++;
